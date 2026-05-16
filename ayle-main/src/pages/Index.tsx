@@ -15,7 +15,7 @@ import {
   MousePointer2,
 } from "lucide-react";
 
-const DISCORD_ID = "544047377540186114";
+const DISCORD_ID = "1139493893713448982";
 
 const projects = [
   {
@@ -51,8 +51,8 @@ const projects = [
 ];
 
 const stats = [
-  { value: "3.5+", label: "Years Exp." },
-  { value: "20", label: "Years Old" },
+  { value: "1.5", label: "Years Exp." },
+  { value: "16", label: "Years Old" },
   { value: "10+", label: "Projects" },
   { value: "30", label: "Clients" },
 ];
@@ -80,7 +80,7 @@ const Index = () => {
           </div>
 
           <h1 className="font-feminine text-7xl tracking-[0.14em] md:text-9xl">
-            <span className="text-shimmer">AYLE</span>
+            <span className="text-shimmer">VORTEX</span>
           </h1>
 
           <div className="mt-6 terminal-chip">
@@ -265,8 +265,8 @@ const Index = () => {
               </a>
             </Button>
             <Button asChild size="lg" variant="outline" className="btn-grad-border rounded-full bg-secondary/50">
-              <a href="https://github.com/ayliee" target="_blank" rel="noreferrer noopener" aria-label="GitHub">
-                <Github className="mr-2 h-4 w-4" /> github.com/ayliee
+              <a href="https://github.com/vortex517" target="_blank" rel="noreferrer noopener" aria-label="GitHub">
+                <Github className="mr-2 h-4 w-4" /> github.com/vortex517
               </a>
             </Button>
           </div>
@@ -275,7 +275,7 @@ const Index = () => {
 
       <footer className="border-t border-border/60 py-10">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 font-mono text-xs text-muted-foreground md:flex-row">
-          <span>© {new Date().getFullYear()} AYLE · crafted in the dark</span>
+          <span>© {new Date().getFullYear()} VORTEX · crafted in the dark</span>
           <span className="flex items-center gap-2">
             <span className="h-1.5 w-1.5 animate-pulse-glow rounded-full bg-accent" />
             system nominal
