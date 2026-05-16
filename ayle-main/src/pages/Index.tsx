@@ -260,8 +260,8 @@ const Index = () => {
           </p>
           <div className="mt-10 flex flex-wrap gap-3">
             <Button asChild size="lg" className="rounded-full bg-foreground text-background hover:bg-foreground/90">
-              <a href="mailto:arcticayl@gmail.com">
-                arcticayl@gmail.com <ArrowUpRight className="ml-1 h-4 w-4" />
+              <a href="vortex517@proton.me">
+                vortex517@proton.me <ArrowUpRight className="ml-1 h-4 w-4" />
               </a>
             </Button>
             <Button asChild size="lg" variant="outline" className="btn-grad-border rounded-full bg-secondary/50">
